@@ -18,15 +18,20 @@ submitted fixes (no wipe):
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix.
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
 11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
+17760353149 - Frost Nova - smoother surfs, light, & enclosed end
+17762560611 - Ace - fixed spawn in ground & ramps, improved visuals, credited original mapper
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 14149606817 - Rookie - Fixed Stage 7 telehop from sometimes letting you preserve speed through, Nerfed Stage 15 (raised wall at end so you can slip under by 2 studs), Stage 17 (Raised beginning walls by 2 studs), and Stage 19 (Raised a few walls to make the second surf flow better by 2 studs)
-
 tested, pending upload & add map data:
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+17812037822 - Trying Again - fixed start & blocked holes in the map
+17812018061 - Sandstorm Supergiant - adjusted for hitbox & zoned bonus
+17762556893 - Discord - rampfix
+17760351482 - Glass II - ramps
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
